@@ -1,0 +1,12 @@
+<course display_name="Artificial Neural Networks Lab "> 
+  <chapter url_name="Introduction"/>
+  <chapter url_name="Parallel_and_distributed_processing_-_I-_Interactive_activation_and_competition_models_"/>
+  <chapter url_name="Parallel_and_distributed_processing_-_II-_Constraint_satisfaction_neural_network_models"/>
+  <chapter url_name="Perceptron_learning_"/>
+  <chapter url_name="Hopfield_model_for_pattern_storage_task_"/>
+  <chapter url_name="Hopfield_model_with_stochastic_update_"/>
+  <chapter url_name="_Competitive_learning_neural_networks_"/>
+  <chapter url_name="_Solution_of_optimization_problems_"/>
+  <chapter url_name="_Hopfield_models_for_solution_to_optimization_problems_"/>
+  <chapter url_name="Weighted_matching_problem-_Deterministic_stochastic_and_mean-field_annealing_of_an_Hopfield_model"/>
+</course>

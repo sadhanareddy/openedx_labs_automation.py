@@ -1,0 +1,14 @@
+<course display_name="Molecular Interactions lab"> 
+  <chapter url_name="Introduction"/>
+  <chapter url_name="_Experiment_1_-_Internuclear_forces_in_a_diatomic_molecule-_Optical_and_magnetic_tweezer_experiments_"/>
+  <chapter url_name="_Experiment_2_-_Molecular_forces_in_a_triatomic_molecule-_A_magnetic_tweezer_experiment_"/>
+  <chapter url_name="_Experiment_3-_Dihedral_forces_in_a_quad-atomic_molecule-_A_magnetic_tweezer_experiment_"/>
+  <chapter url_name="_Experiment_4_-_Interatomic_van_der_Waals_forces_"/>
+  <chapter url_name="_Experiment_5_-_van_der_Waals_forces_between_molecules_"/>
+  <chapter url_name="_Experiment_6-_Interatomic_electrostatic_forces_"/>
+  <chapter url_name="_Experiment_7_-_Electrostatic_forces_between_molecules_"/>
+  <chapter url_name="_Experiment_8-_Many-body_forces_in_a_polyatomic_molecule_"/>
+  <chapter url_name="_Experiment_9_-_Solvent_viscous_forces_on_a_polyatomic_molecule_"/>
+  <chapter url_name="__Experiment_10_-_Molecular_seperation_using_interatomic_forces-_Column_chromatography__"/>
+  <chapter url_name="_Experiment_11_-_Radiation_forces_on_a_dielectric_particle__"/>
+</course>

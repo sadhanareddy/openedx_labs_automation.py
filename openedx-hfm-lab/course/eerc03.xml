@@ -1,0 +1,13 @@
+<course display_name="Hydraulics and Fluid Mechanics lab"> 
+  <chapter url_name="Introduction"/>
+  <chapter url_name="_Bernoullis_Experiment"/>
+  <chapter url_name="Venturi_Meter_Experiment"/>
+  <chapter url_name="Orifices_Experiment"/>
+  <chapter url_name="Mouthpieces_Experiment"/>
+  <chapter url_name="Weirs_Experiment"/>
+  <chapter url_name="Channels_Experiment"/>
+  <chapter url_name="Reynolds_Experiment"/>
+  <chapter url_name="Vorticess_Experiment"/>
+  <chapter url_name="Jets_Experiment"/>
+  <chapter url_name="Turbines_Experiment"/>
+</course>

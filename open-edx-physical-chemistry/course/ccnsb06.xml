@@ -1,0 +1,9 @@
+<course display_name="Physical Chemistry Lab "> 
+  <chapter url_name="Introduction"/>
+  <chapter url_name="Instrumentation_and_working_principles_of_infra_red_spectroscopy_using_salt_plates"/>
+  <chapter url_name="Instrumentation_and_working_principles_of_solutions_infra_red_spectroscopy"/>
+  <chapter url_name="_Instrumentation_and_working_principles_principles_of_mass_spectroscopy_"/>
+  <chapter url_name="_Determination_of_molar_mass_of_simple_compounds_using_mass_spectroscopy_"/>
+  <chapter url_name="_Nuclear_magnetic_resosnace_spectrocopy_and_evaulation_of_simple_1H_NMR_spectra_of_select_organic_compounds_"/>
+  <chapter url_name="_Identification_of_unknown_components_using_spectroscopic_techniques_"/>
+</course>

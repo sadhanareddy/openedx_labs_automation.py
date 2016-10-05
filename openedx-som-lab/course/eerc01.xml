@@ -1,0 +1,13 @@
+<course display_name="Strength of Materials Lab "> 
+  <chapter url_name="Introduction"/>
+  <chapter url_name="Tensile_Test_Experiment"/>
+  <chapter url_name="Compression_Test_Experiment"/>
+  <chapter url_name="Shear_Test_Experiment"/>
+  <chapter url_name="Torsion_Test_Experiment"/>
+  <chapter url_name="Impact_Test_Experiment"/>
+  <chapter url_name="Creep_Test_Experiment"/>
+  <chapter url_name="_Fatigue_Test"/>
+  <chapter url_name="Compression_Test_on_Spring_Experiment"/>
+  <chapter url_name="Principal_Stresses_Experiment"/>
+  <chapter url_name="Rockwell_Hardness_Experiment"/>
+</course>

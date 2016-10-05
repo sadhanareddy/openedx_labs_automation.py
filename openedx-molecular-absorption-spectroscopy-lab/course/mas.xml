@@ -1,0 +1,13 @@
+<course display_name="Molecular Absorption Spectroscopy lab"> 
+  <chapter url_name="Introduction"/>
+  <chapter url_name="_Familiarization_with_the_UV-Visible_Absorption_Spectroscopy"/>
+  <chapter url_name="__Solvent_effects_on_absorption_spectra__"/>
+  <chapter url_name="__Effects_of_sample_path_length__"/>
+  <chapter url_name="_Effects_of_sample_concentration_"/>
+  <chapter url_name="__Determination_of_molar_absorptivity__"/>
+  <chapter url_name="__Verification_of_Beer-Lambert_Law__"/>
+  <chapter url_name="__Determination_of_unknown_concentration_of_a_light_absorbing_analyte__"/>
+  <chapter url_name="_Simultaneous_estimation_method_for_multicomponent_samples-_Principle_of_additivity_of_absorbance_"/>
+  <chapter url_name="__pH_effects_on_absorption_spectra-_pKa_determination_by_spectrophotometric_method__"/>
+  <chapter url_name="_Study_of_kinetics_of_a_reaction_by_using_spectrophotometric_method_"/>
+</course>

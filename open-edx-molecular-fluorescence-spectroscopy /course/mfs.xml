@@ -1,0 +1,13 @@
+<course display_name="Molecular Fluorescence Spectroscopy Virtual Lab"> 
+  <chapter url_name="Introduction"/>
+  <chapter url_name="_Introduction_to_the_fluorescence_spectroscopy_principle__"/>
+  <chapter url_name="_Familiarization_with_the_fluorescence_instrumentation_"/>
+  <chapter url_name="_Familiarization_with_excitation_and_emission_spectra_Mirror_Image_relation_and_Stokes_Shift_"/>
+  <chapter url_name="_Demonstration_of_solvent_effects_on_fluorescence_spectra_"/>
+  <chapter url_name="_Demonstration_of_pH_effects_on_fluorescence_spectra__"/>
+  <chapter url_name="_Effects_of_concentration_optical_density_of_a_fluorophore_on_emission_spectra_"/>
+  <chapter url_name="_Relationship_between_the_concentration_of_a_fluorophore_and_its_fluorescence_intensity-_Determination_of_unknown_concentration_of_an_analyte_in_solution__"/>
+  <chapter url_name="_Determination_of_fluorescence_quantum_yield_of_a_fluorophore_"/>
+  <chapter url_name="_Fluorescence_Quenching_and_Stern-Volmer_plot-_Estimation_of_the_quenching_constant_from_Stern-Volmer_plot_"/>
+  <chapter url_name="_Effects_of_excimer_and_exciplex_formations_on_fluorescence_emission_spectra_"/>
+</course>

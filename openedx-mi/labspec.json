@@ -1,0 +1,112 @@
+{
+        "course": {"org": "IIITH","id": "mi", "display_name": "Molecular Interactions lab"},
+        "overview": "Molecular Interactions lab",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "List of experiments"},
+                                         {"name": "Target Audience"},
+                                         {"name": "Courses Aligned"},
+                                         {"name": "Prerequisites"}
+                                         ]},
+                         {"name": " Experiment 1 - Internuclear forces in a diatomic molecule- Optical and magnetic tweezer experiments ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"}
+                                         ]},
+                          {"name": " Experiment 2 - Molecular forces in a triatomic molecule- A magnetic tweezer experiment ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"}
+                                         ]},
+                           {"name": " Experiment 3- Dihedral forces in a quad-atomic molecule- A magnetic tweezer experiment ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"}
+                                         ]},
+                           {"name": " Experiment 4 - Interatomic van der Waals forces ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"}
+                                         ]},
+                           {"name": " Experiment 5 - van der Waals forces between molecules ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"}
+                                         ]},
+                           {"name": " Experiment 6- Interatomic electrostatic forces ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"}
+                                         ]},
+                         {"name": " Experiment 7 - Electrostatic forces between molecules ",
+                        "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"}
+                                         ]},
+                          {"name": " Experiment 8- Many-body forces in a polyatomic molecule ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"}
+                                         ]},
+                         {"name": " Experiment 9 - Solvent viscous forces on a polyatomic molecule ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"},        
+                                         {"name": "Quizzes"},
+                                         {"name": "FurtherReadings"}
+                                         ]},    
+                          {"name": "  Experiment 10 - Molecular seperation using interatomic forces- Column chromatography  ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"}
+                                         ]},
+                          {"name": " Experiment 11 - Radiation forces on a dielectric particle  ",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"}
+                                         ]}
+                          
+                           
+                            
+                            
+                        ]
+
+}
